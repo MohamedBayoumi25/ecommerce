@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857804711691",
+    "project_id": "marble-a2d1a",
+    "storage_bucket": "marble-a2d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857804711691:android:689987488e2897b6faa40e",
+        "android_client_info": {
+          "package_name": "com.example.new_rotham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oAPAB9UQ0hOH00KQeZ9dbvWD1pJ3WPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857804711691:android:4b1afe4968761336faa40e",
+        "android_client_info": {
+          "package_name": "com.example.new_rothem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5oAPAB9UQ0hOH00KQeZ9dbvWD1pJ3WPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
